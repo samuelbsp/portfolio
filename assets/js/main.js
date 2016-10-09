@@ -15,11 +15,16 @@ $(document).ready(function(){
     }
   });
 
-  $(".mobile-menu-icon").click(function(){
-    $(".nav.mobile").toggleClass("opened");
-  });
+	//Construct block full page
+	var windowHeight;
+	var windowWidth;
 
-  var myHeight=$(window).height();
-  $("#map").css("height",myHeight-185);
+	windowHeight = $( window ).height();
 
+  $(".construct-block").css("height",windowHeight);
+});
+
+$( window ).resize(function() {
+	windowHeight = $( window ).height();
+	$(".construct-block").css("height",windowHeight);
 });

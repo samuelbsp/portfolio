@@ -8,7 +8,7 @@
   <meta name="Keywords" content=''>
 	<link rel="canonical" href="http://www.sbolduc.com/" />
   <script src="/assets/lib/jquery/jquery.min.js"></script>
-  <script src="/assets/lib/fancyBox/source/jquery.fancybox.pack.js"></script>
+  <script src="/assets/lib/fancybox/source/jquery.fancybox.pack.js"></script>
   <script src="/assets/js/main.js"></script>
 	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png">
 	<link rel="icon" type="image/png" href="/assets/img/favicons/favicon-32x32.png" sizes="32x32">
@@ -17,6 +17,6 @@
 	<link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#ffffff">
 	<link rel="stylesheet" href="/assets/css/frontend.css" type="text/css" />
-  <link rel="stylesheet" href="/assets/lib/fancyBox/source/jquery.fancybox.css" type="text/css" />
+  <link rel="stylesheet" href="/assets/lib/fancybox/source/jquery.fancybox.css" type="text/css" />
 </head>
 <body>
